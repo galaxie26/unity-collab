@@ -1,0 +1,4 @@
+repository "projet rpg@Nunuche_gang@cloud"
+  path "/"
+    br "/main"
+    co "/main"
